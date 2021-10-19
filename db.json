@@ -1,0 +1,39 @@
+{
+  "clusters": [
+    {
+      "id": 1,
+      "name": "Azure RHO",
+      "major": "1",
+      "minor": "19",
+      "gitVersion": "v1.19.0+4c3480d",
+      "gitCommit": "4c3480dcd4299c3b3e9a75e28d643177600e7d72",
+      "gitTreeState": "clean",
+      "buildDate": "2021-07-09T00:02:08Z",
+      "goVersion": "go1.15.14",
+      "compiler": "gc",
+      "platform": "linux/amd64",
+      "openshiftVersion": "4.6.44"
+    },
+    {
+      "id": 2,
+      "name": "AWS EKS",
+      "major": "1",
+      "minor": "21+",
+      "gitVersion": "v1.21.2-eks-0389ca3",
+      "gitCommit": "8a4e27b9d88142bbdd21b997b532eb6d493df6d2",
+      "gitTreeState": "clean",
+      "buildDate": "2021-07-31T01:34:46Z",
+      "goVersion": "go1.16.5",
+      "compiler": "gc",
+      "platform": "linux/amd64",
+      "openshiftVersion": ""
+    },
+    {
+      "name": "Local K3S",
+      "major": "1",
+      "minor": "20",
+      "openshiftVersion": "",
+      "id": 4
+    }
+  ]
+}
